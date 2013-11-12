@@ -1,0 +1,24 @@
+1,Ciudad de Buenos Aires
+2,Buenos Aires
+3,Catamarca
+4,Chaco
+5,Chubut
+6,Cordoba
+7,Corrientes
+8,Entre Rios
+9,Formosa
+10,Jujuy
+11,La Pampa
+12,La Rioja
+13,Mendoza
+14,Misiones
+15,Neuquen
+16,Rio Negro
+17,Salta
+18,San Juan
+19,San Luis
+20,Santa Cruz
+21,Santa Fe
+22,Santiago del Estero
+23,Tierra del Fuego, Antartida e Islas del Atlantico Sur
+24,Tucuman

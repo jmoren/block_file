@@ -1,0 +1,108 @@
+50057,Yerba Buena
+50738,Barranqueras
+51322,Ensenada
+51503,Obera
+51967,Mercedes
+52475,General Pico
+52681,Rio Grande
+52938,Chivilcoy
+53054,Azul
+55220,San Pedro
+55606,Tartagal
+56407,Villa Carlos Paz
+57296,Punta Alta
+57614,Puerto Madryn
+57959,Banda del Rio Sali
+58277,Santo Tome
+58779,San Francisco
+59738,Guernica
+63317,General Rodriguez
+63490,Reconquista
+64954,Concepcion del Uruguay
+66299,Cipolletti
+66709,Goya
+66915,San Ramon de la Nueva Orán
+67266,Lujan
+68426,Venado Tuerto
+69672,General Roca
+70380,San Martin
+72162,Villa Maria
+73058,Lujan de Cuyo
+73210,Chimbas
+74164,Gualeguaychu
+74658,Gobernador Galvez
+75950,Rivadavia
+76794,Presidencia Roque Saenz Pena
+77838,Campana
+78988,Berisso
+79144,Rio Gallegos
+79983,Necochea
+82416,Rafaela
+82427,Junin
+83738,Olavarria
+85487,Pergamino
+86686,Zarate
+88305,Trelew
+89092,San Carlos de Bariloche
+89433,Maipu
+94340,Santa Rosa
+95178,La Banda
+96781,Mercedes
+101010,Tandil
+102225,Villa Krause
+106386,San Rafael
+110993,Mendoza
+112778,San Juan
+118072,Ezeiza
+125408,San Nicolas de los Arroyos
+135632,Comodoro Rivadavia
+138099,Concordia
+140741,Catamarca
+143684,La Rioja
+144021,Rio Cuarto
+148064,San Fernando
+153322,San Luis
+158121,Ituzaingo
+169248,Las Heras
+172245,Hurlingham
+173155,Belen de Escobar
+182563,Godoy Cruz
+198074,Formosa
+201868,Neuquen
+223365,Guaymallen
+226517,Pilar
+230208,Jose C. Paz
+230614,Santiago del Estero
+231229,San Salvador de Jujuy
+235967,Parana
+243186,Esteban Echeverria
+252981,Posadas
+253086,San Miguel
+274082,Vicente Lopez
+274490,Resistencia
+274509,Bahia Blanca
+286735,Berazategui
+290691,Los Polvorines
+291505,San Isidro
+296189,Tigre
+309380,Moron
+314546,Corrientes
+328980,Avellaneda
+336467,Caseros
+341507,Florencio Varela
+368668,Santa Fe
+379300,Moreno
+403107,General San Martin
+453082,Lanus
+462051,Salta
+468745,Merlo
+514491,Almirante Brown
+518788,Quilmes
+527150,San Miguel de Tucuman
+541733,Mar del Plata
+563943,La Plata
+591345,Lomas de Zamora
+908163,Rosario
+1253921,San Justo
+1267521,Cordoba
+2776138,Buenos Aires

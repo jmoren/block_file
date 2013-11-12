@@ -1,0 +1,243 @@
+125296,República de Abjasia
+199830,Bases Soberanas de Acrotiri y Dhekelia
+73403,República Islámica de Afganistán
+51575,República de Albania
+23621,República Federal de Alemania
+22193,Principado de Andorra
+32644,República de Angola
+150504,Anguila
+164784,Antigua y Barbuda
+31810,Reino de Arabia Saudita
+125213,República Argelina Democrática y Popular
+47273,República Argentina
+113331,República de Armenia
+49240,Aruba
+93701,Mancomunidad de Australia
+145835,República de Austria
+151945,República de Azerbaiyán
+119457,Mancomunidad de las Bahamas
+184582,Reino de Baréin
+33566,República Popular de Bangladés
+191382,Barbados
+51784,Reino de Bélgica
+91283,Belice
+195241,República de Benín
+100477,Bermudas
+112379,República de Bielorrusia
+41384,República de la Unión de Myanmar (Birmania)
+191837,Estado Plurinacional de Bolivia
+121716,Bosnia y Herzegovina
+90946,República de Botsuana
+190223,República Federativa del Brasil
+43171,"Estado de Brunéi, Morada de la Paz"
+108040,República de Bulgaria
+81929,Burkina Faso
+119481,República de Burundi
+181175,Reino de Bután
+93889,República de Cabo Verde
+195447,Islas Caimán
+102850,Reino de Camboya
+71826,República de Camerún
+135142,Canadá
+144517,Estado de Catar
+56266,República Centroafricana
+185836,República de Chad
+171569,República Checa
+110911,República de Chile
+59692,República Popular China
+196245,República de Chipre
+87733,República Turca del Norte de Chipre
+21715,Territorio de las Islas Cocos (Keeling)
+101202,República de Colombia
+123464,Unión de las Comoras
+100093,República del Congo
+103195,República Democrática del Congo
+80621,Islas Cook
+25510,República Popular Democrática de Corea
+130798,República de Corea
+133144,República de Costa de Marfil
+137637,República de Costa Rica
+4999,República de Croacia
+139096,República de Cuba
+36650,País de Curazao
+8379,Reino de Dinamarca
+126990,Mancomunidad de Dominica
+180360,República Dominicana
+125136,República del Ecuador
+186889,República çrabe de Egipto
+78943,República de El Salvador
+75224,Emiratos çrabes Unidos
+198667,Estado de Eritrea
+2529,República Eslovaca
+6071,República de Eslovenia
+177795,Reino de Espa–a
+139593,Estados Unidos de América
+25330,República de Estonia
+118410,República Democrática Federal de Etiopía
+32667,Islas Feroe
+104077,República de Filipinas
+105616,República de Finlandia
+138135,República de Fiyi
+83486,República Francesa
+180831,República Gabonesa
+6894,República del Gambia
+60417,Georgia
+22194,República de Ghana
+110523,Gibraltar
+111354,Granada
+181762,República Helénica
+197679,Groenlandia
+92641,Guam
+112117,República de Guatemala
+19808,Bailiazgo de Guernsey
+25553,República de Guinea
+156969,República de Guinea-Bisáu
+134162,República de Guinea Ecuatorial
+116933,República Cooperativa de Guyana
+84837,República de Haití
+106931,República de Honduras
+123288,Región Administrativa Especial de Hong Kong
+36510,Hungría
+148718,República de la India
+19891,República de Indonesia
+69214,República de Irak
+157817,República Islámica de Irán
+17711,República de Irlanda
+16833,República de Islandia
+71169,Estado de Israel
+95434,República Italiana
+75466,Jamaica
+104410,Japón
+5024,Bailiazgo de Jersey
+72976,Reino Hachemita de Jordania
+167453,República de Kazajistán
+103897,República de Kenia
+182608,República Kirguisa
+36858,República de Kiribati
+3958,República de Kosovo
+105772,Estado de Kuwait
+13812,República Democrática Popular Lao
+66460,Reino de Lesoto
+2689,República de Letonia
+123495,República Libanesa
+12414,República de Liberia
+65523,Estado de Libia
+69909,Principado de Liechtenstein
+104551,República de Lituania
+164760,Gran Ducado de Luxemburgo
+140792,Región Administrativa Especial de Macao
+169411,República de Macedonia
+93059,República de Madagascar
+61473,Malasia
+111710,República de Malaui
+168228,República de las Maldivas
+144392,República de Malí
+196216,República de Malta
+104304,Islas Malvinas/Falkland Islands
+80686,Isla de Man
+140758,Estado Libre Asociado de las Islas Marianas del Norte
+15908,Reino de Marruecos
+182934,República de las Islas Marshall
+14739,República de Mauricio
+56436,República Islámica de Mauritania
+182844,Estados Unidos Mexicanos
+193935,Estados Federados de Micronesia
+192911,República de Moldavia
+129169,Principado de Mónaco
+81477,Mongolia
+3560,República de Montenegro
+57481,Montserrat
+198118,República de Mozambique
+123216,República de Nagorno Karabaj
+59924,República de Namibia
+175802,República de Nauru
+59628,Territorio de la Isla de Navidad
+94233,República Federal Democrática de Nepal
+138150,República de Nicaragua
+158369,República del Níger
+182077,República Federal de Nigeria
+30350,Niue
+74889,Territorio de las Islas Norfolk
+61464,Reino de Noruega
+108624,Territorio de Nueva Caledonia y dependencias
+132622,Nueva Zelanda
+12230,Sultanato de Omán
+54767,República de Osetia del Sur
+10512,Reino de los Países Bajos
+97331,República Islámica de Pakistán
+199037,República de Palaos
+25758,Estado de Palestina
+153503,República de Panamá
+101406,Estado Independiente de Papúa Nueva Guinea
+132753,República del Paraguay
+75223,República del Perú
+35233,"Islas Pitcairn, Henderson, Ducie y Oeno"
+127015,Polinesia Francesa
+162135,República de Polonia
+44731,República Portuguesa
+133150,Estado Libre Asociado de Puerto Rico
+118449,Reino Unido de Gran Breta–a e Irlanda del Norte
+198507,República de Ruanda
+145615,Rumania
+47934,Federación Rusa
+166162,República çrabe Saharaui Democrática
+1484,Islas Salomón
+73163,Estado Independiente de Samoa
+163831,Territorio de la Samoa Americana
+44469,Colectividad de San Bartolomé
+61110,Federación de San Cristóbal y Nieves
+162611,Serenísima República de San Marino
+117069,Colectividad de San Martín
+199526,Sint Maarten
+21075,San Pedro y Miquelón
+66091,San Vicente y las Granadinas
+6109,"Santa Elena, Ascensión y Tristán de Acu–a"
+11199,Santa Lucía
+60203,República Democrática de Santo Tomé y Príncipe
+193112,República de Senegal
+146928,República de Serbia
+172917,República de las Seychelles
+125747,República de Sierra Leona
+168241,República de Singapur
+93893,República çrabe Siria
+167133,República Federal de Somalia
+61308,República de Somalilandia
+13064,República Democrática Socialista de Sri Lanka
+172595,Reino de Suazilandia
+90046,República de Sudáfrica
+185556,República del Sudán
+28845,República de Sudán del Sur
+133747,Reino de Suecia
+111867,Confederación Helvética
+103829,República del Surinam
+50882,Svalbard
+199097,Reino de Tailandia
+48544,República de China
+37925,República Unida de Tanzania
+33270,República de Tayikistán
+104088,República Democrática de Timor Oriental
+59968,República Togolesa
+127031,Tokelau
+104768,Reino de Tonga
+173155,República Moldava Pridnestroviana
+162492,República de Trinidad y Tobago
+40222,República Tunecina
+72038,Islas Turcas y Caicos
+102507,Turkmenistán
+98331,República de Turquía
+117646,Tuvalu
+110290,Ucrania
+28553,República de Uganda
+104570,República Oriental del Uruguay
+74649,República de Uzbekistán
+88690,República de Vanuatu
+12245,Estado de la Ciudad del Vaticano
+43147,República Bolivariana de Venezuela
+193088,República Socialista de Vietnam
+116045,Islas Vírgenes Británicas
+1095,Islas Vírgenes de los Estados Unidos
+85951,Territorio de las Islas Wallis y Futuna
+112946,República del Yemen
+57857,República de Yibuti
+138018,República de Zambia
+153329,República de Zimbabue

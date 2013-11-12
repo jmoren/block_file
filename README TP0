@@ -1,0 +1,51 @@
+Carga masiva de entidades
+-------------------------
+  ./cargador_masivo –i <nombre de la entidad> <archivo con entidades>
+
+  Donde:
+  1) -i indica que es una inserción masiva
+  2) cargador_masivo es el nombre del ejecutable
+  3) <nombre de la entidad> va a ser el nombre de la entidad a cargar
+  4) <archivo con entidades> es la ruta al archivo donde se encuentran los registros a cargar en el sistema (en la carpeta entidades)
+
+Listado de entidades
+--------------------
+  ./cargador_masivo –l <nombre de la entidad>
+
+  Donde:
+  1) -l indica que se requiere listar todos los miembros de la entidad
+  2) Cargador_masivo es el nombre del ejecutable
+  3) <nombre de la entidad> va a ser el nombre de la entidad a listar
+
+Búsqueda por clave
+------------------
+  ./cargador_masivo –k <Codigo> <nombre de la entidad>
+
+  Donde:
+  1) -k indica que se requiere buscar un registro por clave
+  2) Cargador_masivo es el nombre del ejecutable
+  3) <Codigo> Código del miembro de la entidad que se quiere mostrar por pantalla
+  4) <nombre de la entidad> va a ser el nombre de la entidad a listar
+
+Listado de miembros de Entidad ordenados por clave
+---------------------------------------------------
+  ./cargador_masivo –ok <nombre de la entidad>
+
+  Donde:
+  1) -ok indica que se requiere listar todos los miembros de la entidad ordenados por la clave del miembro entidad
+  2) Cargador_masivo es el nombre del ejecutable
+  3) <nombre de la entidad> va a ser el nombre de la entidad a listar
+
+  El resultado del ordenamiento debe generarse en un archivo temporal que luego será mostrado por pantalla.
+  Los archivo de trabajo deben quedar disponibles para evaluar el correcto funcionamiento del sort externo
+
+Listado de miembros de Entidad ordenados por Nombre
+---------------------------------------------------
+  ./cargador_masivo –on <nombre de la entidad>
+
+  Donde:
+  1) -on indica que se requiere listar todos los miembros de la entidad ordenados por el nombre del miembro de la entidad
+  2) Cargador_masivo es el nombre del ejecutable
+  3) <nombre de la entidad> va a ser el nombre de la entidad a listar
+
+  El resultado del ordenamiento debe generarse en un archivo temporal que luego será mostrado por pantalla. Los archivo de trabajo deben quedar disponibles para evaluar el correcto funcionamiento del sort externo

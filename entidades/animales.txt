@@ -1,0 +1,227 @@
+1138,Aardvark
+2165,Albatross
+5,Alligator
+2310,Alpaca
+1155,Ant
+2457,Anteater
+893,Antelope
+198,Ape
+1436,Armadillo
+1141,Ass/Donkey
+1650,Baboon
+1752,Badger
+1055,Barracuda
+1482,Bat
+100,Bear
+781,Beaver
+2188,Bee
+1254,Bison
+863,Boar (wild pig) Also see Pig
+1186,Buffalo, African (for American buffalo, see Bison)
+316,Galago
+346,Butterfly
+1926,Camel
+1355,Caribou
+2099,Cat
+1465,Caterpillar
+421,Cattle
+941,Chamois
+1092,Cheetah
+1013,Chicken
+1401,Chimpanzee
+1248,Chinchilla
+674,Chough
+1056,Clam
+1443,Cobra
+393,Cockroach
+1853,Cod
+899,Cormorant
+950,Coyote
+147,Crab
+36,Crane
+500,Crocodile
+631,Crow
+2392,Curlew
+110,Deer
+2106,Dinosaur
+475,Dog
+747,Dogfish
+1706,Dolphin
+2252,Donkey - See Ass
+2113,Dotterel
+373,Dove
+2052,Dragonfly
+2146,DuckAlso see Mallard
+1135,Dugong
+1110,Dunlin
+2055,Eagle
+941,Echidna
+1420,Eel
+2290,Eland
+1905,Elephant
+2371,Elephant seal
+1668,Elk (wapiti)
+89,Emu
+277,Falcon
+1609,Ferret
+2447,Finch
+2211,Fish
+659,Flamingo
+1215,Fly
+1741,Fox
+2475,Frog
+229,Gaur
+1342,Gazelle
+1772,Gerbil
+929,Giant Panda
+2008,Giraffe
+1432,Gnat
+919,Gnu
+578,Goat
+2311,Goose
+292,Goldfinch
+783,Goldfish
+1834,Gorilla
+1014,Goshawk
+1660,Grasshopper
+1217,Grouse
+1033,Guanaco
+1428,Guinea fowl
+1473,Guinea pig
+2292,Gull
+1298,Hamster
+462,Hare
+2149,Hawk
+1101,Hedgehog
+457,Heron
+2370,Herring
+2406,Hippopotamus
+1068,Hornet
+679,Horse
+1088,Human
+1632,Hummingbird
+2240,Hyena
+755,Jackal
+1948,Jaguar
+1843,Jay
+1623,Jay, Blue
+581,Jellyfish
+1623,Kangaroo
+2421,Koala
+2077,Komodo dragon
+1992,Kouprey
+39,Kudu
+1689,Lapwing
+1502,Lark
+2180,Lemur
+1906,Leopard
+919,Lion
+1648,Llama
+1846,Lobster
+1249,Locust
+1080,Loris
+510,Louse
+780,Lyrebird
+2416,Magpie
+589,MallardAlso see Duck
+1975,Manatee
+1394,Marten
+600,Meerkat
+2274,Mink
+1440,Mole
+635,Monkey
+2358,Moose
+660,Mouse
+1265,Mosquito
+1694,Mule
+710,Narwhal
+815,Newt
+2453,Nightingale
+1705,Octopus
+2290,Okapi
+2339,Opossum
+1733,Oryx
+1883,Ostrich
+905,Otter
+1590,Owl
+2131,Ox
+1673,Oyster
+1568,Panther
+1489,Parrot
+1805,Partridge
+2347,Peafowl
+2304,Pelican
+1909,Penguin
+878,Pheasant
+532,PigAlso see Boar
+1268,Pigeon
+2269,Pony- See Horse
+1202,Porcupine
+2372,Porpoise
+888,Prairie Dog
+363,Quail
+2441,Quelea
+2324,Rabbit
+560,Raccoon
+237,Rail
+2111,RamAlso see Sheep
+2491,Rat
+851,Raven
+279,Red deer
+1671,Red panda
+1601,Reindeer (caribou)
+1211,Rhinoceros
+2041,Rook
+1046,Ruff
+1378,Salamander
+1435,Salmon
+177,Sand Dollar
+1996,Sandpiper
+1865,Sardine
+2075,Scorpion
+1447,Sea lion
+832,Sea Urchin
+1505,Seahorse
+1360,Seal
+2107,Shark
+723,SheepAlso see Ram
+2187,Shrew
+1708,Shrimp
+1776,Skunk
+1693,Snail
+1557,Snake
+254,Spider
+2038,Squid
+1706,Squirrel
+1089,Starling
+802,Stingray
+436,Stinkbug
+568,Stork
+1174,Swallow
+1008,Swan
+835,Tapir
+319,Tarsier
+1242,Termite
+2469,Tiger
+146,Toad
+2331,Trout
+1177,Turkey
+80,Turtle
+1926,Vicuña
+1168,Viper
+2374,Vulture
+904,Wallaby
+160,Walrus
+466,Wasp
+37,Water buffalo
+1183,Weasel
+515,Whale
+2195,Wolf
+1048,Wolverine
+203,Wombat
+328,Woodcock
+169,Woodpecker
+344,Worm
+211,Wren
+422,Yak
+2370,Zebra
